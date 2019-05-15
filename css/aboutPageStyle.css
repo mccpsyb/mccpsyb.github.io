@@ -413,4 +413,10 @@ footer .footerNote {
     50%{background-position:100% 25%}
     100%{background-position:0% 50%}
 }
+	.rounded-circle {
+		border-radius:50%
+	}
+a .hidden-link {
+		color: white
+	}
 }
